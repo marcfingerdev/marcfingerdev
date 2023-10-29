@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a Software Developer with a passion for fronte
 
 ### About Me
 
-- 🌱 I'm currently working on an mobile app using react native.
-- 👯 I'm looking to collaborate on something interesting!
+- 🌱 I'm currently working on a mobile app using react native.
+- 🤝 I'm looking to collaborate on something interesting!
 
 ### Let's Connect
 
