@@ -10,12 +10,12 @@ Welcome to my GitHub profile! I'm a Software Developer with a passion for fronte
 ### Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/marcffinger/)
-- [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](ttps://www.linkedin.com/in/marcffinger/)
+- [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/marcffinger/)
 - [Twitter](https://twitter.com/techwithmarc)
 - [Website](https://www.marcfinger.com)
 
 ### Recent Work
 
-- [San Blas Valley]([https://sanblasvalley.com/])
+- [San Blas Valley](https://sanblasvalley.com/)
 
 Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or chat about common interests. Happy coding!
