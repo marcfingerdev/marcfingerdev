@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Marc
 
 I'm a **Software Developer** focused on frontend and mobile, with 4+ years of experience building responsive, scalable web apps in fintech and SaaS.  
-Currently building **[LemonPod](https://lemonpod.ai)**, an AI-powered podcast-style recap of your day.
+Currently building **[lemonpod.ai](https://lemonpod.ai)**, an AI-powered podcast-style recap of your day.
 
 ### 🚀 What I Do
 
