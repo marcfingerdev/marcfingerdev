@@ -1,22 +1,12 @@
-## 👋 Hi, I'm Marc
+## Hi, I'm Marc
 
-I'm a **Software Developer** focused on frontend and mobile, with 4+ years of experience building responsive, scalable web apps in fintech and SaaS.  
-Currently building **[lemonpod.ai](https://lemonpod.ai)**, an AI-powered podcast-style recap of your day.
+I'm a **Full Stack Software Engineer** with 4+ years of experience building web and mobile applications across fintech, SaaS, and AI.
 
-### 🚀 What I Do
+Currently working at **[Nomad Gate](https://nomadgate.com)**, developing tools and services focused on international mobility, residency, citizenship, and global banking.
 
-- 💳 Build fintech products and tools that make complex financial experiences feel simple.
-- 🧠 Work on AI-powered features that turn raw data into useful, interactive insights.
-- 🛠️ Enjoy working in small, fast teams where I can own UX, performance, and front-to-back implementation.
+I also built **[Lemonpod.ai](https://lemonpod.ai)**, an AI-powered SaaS product that transforms data from connected services into personalised daily audio briefings.
 
-### 🧑‍💻 Tech I Use
-
-- **Frontend:** React, Next, Vue, Nuxt, React Native, TypeScript  
-- **UI & Data Viz:** Material UI, Tailwind, Recharts, Styled Components  
-- **Backend / Cloud:** Supabase, AWS (SQS, Lambda, S3), Firebase, PostgreSQL  
-- **Other:** Git/GitHub/GitLab, REST APIs, i18n
-
-### 📬 Let’s Connect
+### Connect
 
 [![Website](https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white)](https://www.marcfinger.com/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcffinger/)
@@ -24,4 +14,4 @@ Currently building **[lemonpod.ai](https://lemonpod.ai)**, an AI-powered podcast
 
 ---
 
-*Open to remote roles and relocation. Feel free to reach out about collaborations, frontend-heavy roles, or fintech/AI projects.*
+*Always open to interesting projects, collaborations, and connecting with other developers.*
